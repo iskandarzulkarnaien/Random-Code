@@ -33,7 +33,6 @@ function draw() {
 
         currPoint = midPoint
     }
-    console.log(mouseX, mouseY)
 }
 
 // Helpers
